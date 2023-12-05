@@ -1,0 +1,33 @@
+body{
+    background-color: #faebd7;
+    font-family: "Times New Roman", "Brush Script MT", sans-serif;
+    font-size: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.image.center{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    font-size : 100px;
+    text-align: center;
+    background-color: bisque;
+    background-size: auto;
+    color: orange;
+}
+
+.desc{
+    font-style: oblique;
+}
+
+li{
+    color:#d2691e;
+}
